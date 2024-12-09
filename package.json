@@ -1,0 +1,16 @@
+
+{
+  "name": "chatbot-app",
+  "version": "1.0.0",
+  "description": "Chatbot integrado con OpenAI y APIs de Meta",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.3.4",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
